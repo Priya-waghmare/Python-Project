@@ -32,6 +32,6 @@ for char in password_list:
     password += char
 print("char", char)
 
-# convert list to string
+# convert list to string 
 pwd = ''.join(password_list)
 print(f"Your random password to use is: {pwd}")
